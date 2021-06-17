@@ -1,0 +1,38 @@
+Organisation Dossier Projet :
+
+Project -> Blueprint -> ....
+
+
+Nom Classe CPP :
+
+NomClass.cpp (Rien de spécifique).
+
+
+Nom fichier :
+
+Blueprint -> BP_Name
+
+PlayerController -> BP_PlayerController
+
+LevelSequence -> LS_Name
+
+Enumeration -> Enum_Name | Structure -> Struct_Name | Interface -> I_Name
+
+AnimBlueprint -> ABP_Name ABP_Composite
+
+Blackboard -> BB_Name | Behaviour Tree -> BT_Name | 
+Services -> BTS_Name | Task -> BTT_Name | Decorator -> BTD_Name
+
+Material Base -> M_Name | Material Instance -> MI_Name
+
+Texture -> T_Name
+
+FX :
+Niagara System -> FX_Name
+Emitter Niagara -> Emit_Name
+
+Widget -> WG_Name
+
+SoundWave -> SW_Name | SoundCue -> SC_Name
+
+Musique -> SW_M_Name | Sound -> SW_S_Name
